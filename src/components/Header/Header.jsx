@@ -10,7 +10,7 @@ const Header = () => {
             <Navbar />
             <div className='header-content flex flex-c text-center text-white'>
                 <h2 className='header-title text-capitalize'>find your book of choice.</h2><br />
-                <p className='header-text fs-18 fw-3'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam beatae sapiente quibusdam consequatur perspiciatis facere laboriosam non nesciunt at id repudiandae, modi iste? Eligendi, rerum!</p>
+                <p className='header-text fs-18 fw-3'>BookHub is your premier destination for literary exploration. With an extensive collection of books, genres, and authors, BookHub offers a user-friendly platform to search, discover, and explore your next great read. Whether you're an avid reader or just starting your literary journey, BookHub is your go-to resource for finding, reviewing, and discussing books. Join a vibrant community of book enthusiasts and embark on a literary adventure today!</p>
                 <SearchForm />
             </div>
         </header>
